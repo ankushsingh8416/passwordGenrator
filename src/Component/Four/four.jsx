@@ -31,7 +31,7 @@ const Four = () => {
     <>
       <div className="bg-black w-100 text-white h-screen">
         <h1 className="text-2xl text-center text-white pt-6">
-          Password generator using React js asasdsdfsd
+          Password generator using React js 
         </h1>
         <div className="w-full max-w-md mx-auto shadow-md rounded-lg px-4 py-3 my-8 text-orange-500 bg-gray-700">
           <div className="flex shadow rounded-lg overflow-hidden mb-4">
